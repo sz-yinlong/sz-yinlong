@@ -11,7 +11,7 @@
 ## I'm Artem, an iOS Developer Passionate About Swift Programming Language and Mobile Apps!
 
 ### 📱 Current Project
-- 🔭 I'm currently working on **StreetLifter** - a clean and simple fitness tracker app tailored for enthusiasts in calisthenics with weights. It's a project close to my heart as it reflects my own fitness journey!
+- 🔭 I'm currently working on [**StreetLifter**](https://github.com/sz-yinlong/StreetLifter) - a clean and simple fitness tracker app tailored for enthusiasts in calisthenics with weights. It's a project close to my heart as it reflects my own fitness journey!
 
 ### 💡 Core Interests
 - I specialize in developing intuitive and user-friendly iOS applications using **Swift**.
