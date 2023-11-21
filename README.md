@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Swift Logo]([URL_of_the_Swift_Logo](https://ios-apps.ru/images/blog/why-swift/1.png))
 # Welcome to My GitHub!
 
 ## I'm Artem, an iOS Developer Passionate About Swift Programming Language and Mobile Apps!
