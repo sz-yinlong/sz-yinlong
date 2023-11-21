@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://ios-apps.ru/images/blog/why-swift/1.png" alt="Swift Logo" width="100"/>
+<img src="https://ios-apps.ru/images/blog/why-swift/1.png" alt="Swift Logo" width="50"/>
+<img src="https://www.pvsm.ru/images/2019/06/04/Swift-UI-galopom-po-evropam.png" alt="SwiftUI Logo" width="50"/>
+
+
 # Welcome to My GitHub!
 
 ## I'm Artem, an iOS Developer Passionate About Swift Programming Language and Mobile Apps!
