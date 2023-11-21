@@ -1,8 +1,9 @@
 ### Hi there 👋
-<p>
-    <img src="https://ios-apps.ru/images/blog/why-swift/1.png" alt="Swift Logo" width="100"/>
-    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI Logo" width="100"/>
+   <p>
+    <img src="https://ios-apps.ru/images/blog/why-swift/1.png" alt="Swift Logo" width="50" style="border-radius: 20px;"/>
+    <img src="https://www.pvsm.ru/images/2019/06/04/Swift-UI-galopom-po-evropam.png" alt="SwiftUI Logo" width="50"/>
 </p>
+
 
 
 # Welcome to My GitHub!
