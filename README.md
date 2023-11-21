@@ -21,7 +21,7 @@
 ### 🚀 Skills
 - Proficient in **Swift** and **SwiftUI**.
 - Testing with **Quick/Nimble**
-- Reactive programming with **Combine** (absolute fan of it❤️)
+- Reactive programming with **Combine** (❤️)
 - Experienced with **Xcode**, UIKit, and the latest iOS SDKs.
 - Solid understanding of object-oriented programming, design patterns, and best practices.
 - Familiar with Git, Agile methodologies, and **CI/CD**
