@@ -1,7 +1,7 @@
 ### Hi there 👋
    <p>
     <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift Logo" width="50"/>
-    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI Logo" width="50"/>
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI Logo" width="52"/>
 </p>
 
 
