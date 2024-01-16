@@ -12,6 +12,8 @@
 ### 📱 Current Project
 - 🔭 I'm currently working on [**StreetLifter**](https://github.com/sz-yinlong/StreetLifter) - a clean and simple fitness tracker app tailored for enthusiasts in calisthenics with weights. It's a project close to my heart as it reflects my own fitness journey!
 
+https://apps.apple.com/ru/app/streetlifter/id6475625381
+
 ### 💡 Core Interests
 - I specialize in developing intuitive and user-friendly iOS applications using **Swift**.
 - Passionate about exploring new technologies in mobile app development.
