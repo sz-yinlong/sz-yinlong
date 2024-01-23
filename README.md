@@ -1,13 +1,16 @@
 ### Hi there 👋
    <p>
     <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift Logo" width="50"/>
+   <img src="https://www.freedownloadlogo.com/logos/g/go-7.svg" alt="Gologo" width="100"/>
 </p>
+
+
 
 
 
 # Welcome to My GitHub!
 
-## I'm Artem, an iOS Developer Passionate About Swift Programming Language and Mobile Apps!
+## I'm Artem, an iOS/ Golang Developer Passionate About Swift/ Go programming Languages, Mobile Apps and Backend infrastructure!
 
 ### 📱 Current Project
 - 🔭 I'm currently working on [**StreetLifter**](https://github.com/sz-yinlong/StreetLifter) - a clean and simple fitness tracker app tailored for enthusiasts in calisthenics with weights. It's a project close to my heart as it reflects my own fitness journey!
@@ -18,6 +21,7 @@ https://apps.apple.com/ru/app/streetlifter/id6475625381
 - I specialize in developing intuitive and user-friendly iOS applications using **Swift**.
 - Passionate about exploring new technologies in mobile app development.
 - Keen on implementing effective solutions for complex problems in mobile software.
+- Currently learning **Go** development as as **SQL** wrokflow.
 
 ### 🚀 Skills
 - Proficient in **Swift** and **SwiftUI**.
