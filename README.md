@@ -12,7 +12,7 @@
 ### 📱 Current Project
 - 🔭 I'm currently working on [**StreetLifter**](https://github.com/sz-yinlong/StreetLifter) - a clean and simple fitness tracker app tailored for enthusiasts in calisthenics with weights. It's a project close to my heart as it reflects my own fitness journey!
 
-[<img src="https://github.com/sz-yinlong/sz-yinlong/assets/120241674/d801f5d3-f5b7-4310-92d8-6fb404f92c20" width="330" height="160" alt="StreetLifter App Store">](https://apps.apple.com/ru/app/streetlifter/id6475625381)
+[<img src="https://github.com/sz-yinlong/sz-yinlong/assets/120241674/d801f5d3-f5b7-4310-92d8-6fb404f92c20" width="260" height="125" alt="StreetLifter App Store">](https://apps.apple.com/ru/app/streetlifter/id6475625381)
 
 
 ### 💡 Core Interests
