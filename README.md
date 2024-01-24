@@ -19,7 +19,7 @@
 - I specialize in developing intuitive and user-friendly iOS applications using **Swift**.
 - Passionate about exploring new technologies in mobile app development.
 - Keen on implementing effective solutions for complex problems in mobile software.
-- Currently learning **Go** development as as **SQL** wrokflow.
+- Currently practicing **Go** development and **SQL** wrokflow.
 
 ### 🚀 Skills
 - Proficient in **Swift** and **SwiftUI**.
