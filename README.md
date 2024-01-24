@@ -1,6 +1,6 @@
-<p align="center">
-# Hi there 👋
-</p>
+<h2 align="center">
+ Hi there 👋
+</h2>
 <p align="center">
   <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift Logo" width="50"/>
   <img src="https://www.freedownloadlogo.com/logos/g/go-7.svg" alt="Go Logo" width="100"/>
