@@ -7,7 +7,7 @@
 
 # Welcome to My GitHub!
 
-## I'm Artem, an iOS/Backend Developer Passionate About Swift/Go programming Languages!
+## I'm Artem, an iOS/Backend Developer Passionate About Swift/Go Programming Languages!
 
 ### 📱 Current Project
 - 🔭 I'm currently working on [**StreetLifter**](https://github.com/sz-yinlong/StreetLifter) - a clean and simple fitness tracker app tailored for enthusiasts in calisthenics with weights. It's a project close to my heart as it reflects my own fitness journey!
