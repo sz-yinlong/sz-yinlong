@@ -43,7 +43,6 @@
 
 ## 📫 How to Reach Me
 - Feel free to reach out for collaborations or just a chat about iOS development!
-- [My LinkedIn](https://www.linkedin.com/in/artem-bariev-ios/)
 - [My Email](mailto:szyinlong@gmail.com)
 
 _Thanks for stopping by, and have a great day!_
