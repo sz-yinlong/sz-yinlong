@@ -8,7 +8,7 @@
 
 <h1 align="center">Welcome to My GitHub!</h1>
 
-<h2 align="center">I'm Artem, an iOS/Backend Developer Passionate About Swift/Go Programming Languages!</h2>
+<h2 align="center">I'm Artem, an iOS developer passionate About Swift/Go Programming Languages!</h2>
 
 ## 📱 Current Project
 <table>
